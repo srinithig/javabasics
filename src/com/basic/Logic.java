@@ -49,6 +49,7 @@ int i1,i2,i3,i4,i5,x,num,num1,sum=0;
 	              temp=min;
 	            }
 	        }
+	        
 	        }
 	    numCount=(unstableNumCount*10)+stableNumCount;
 	    System.out.println("password1=(unstableNumCount*10)+stableNumCount");
